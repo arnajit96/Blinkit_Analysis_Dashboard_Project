@@ -29,6 +29,8 @@ The dashboard supports strategic decision-making through insights into sales tre
 
 •	Detailed sales breakdown by item type and fat content preferences.
 
+# Video for Blinkit Analyst Dashboard Project
+
 https://github.com/user-attachments/assets/51bb7aa3-436c-4b32-8175-6deed4c89516
 
 
